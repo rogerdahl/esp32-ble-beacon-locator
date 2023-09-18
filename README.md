@@ -3,8 +3,8 @@
 This is the firmware for a DIY gadget to locate nearby iBeacons.
 
 <p float="left">
-<img src="assets/ble-locator-1.jpg" height=300/>
-<img src="assets/ble-locator-2.jpg" height=300/>
+<img src="assets/ble-locator-1.jpg" height=300 alt="Locator 1" />
+<img src="assets/ble-locator-2.jpg" height=300 alt="Locator 2" />
 </p>
 
 ## Usage
@@ -44,14 +44,21 @@ Connections:
 
 Search terms for parts:
 
-| Part        | Search                          |
-|-------------|---------------------------------|
-| ESP32       | ESP-WROOM-32D development board |
-| LCD         | LCD1602 16x2 PCF8574            |
-| Battery     | 18650 charging shield           |
-| Speaker amp | PAM8403 module                  |
-| Speaker     | 0.5W small speaker              |
+| Part        | Search                                |
+|-------------|---------------------------------------|
+| ESP32       | ESP-WROOM-32D development board       |
+| LCD         | LCD1602 16x2 PCF8574                  |
+| Battery     | 18650 charging shield                 |
+| Speaker amp | PAM8403 module                        |
+| Speaker     | 0.5W small speaker                    |
+| Antenna     | 2.4GHz WiFi directional panel antenna |
 
+## 3D printed parts
+
+`./print/handle.FCStd`
+<p>
+<img src="assets/handle.png" height="200" alt="Antenna Handle" />
+</p>
 
 ## Notes
 
