@@ -44,14 +44,14 @@ Connections:
 
 Search terms for parts:
 
-| Part        | Search                                |
-|-------------|---------------------------------------|
-| ESP32       | ESP-WROOM-32D development board       |
-| LCD         | LCD1602 16x2 PCF8574                  |
-| Battery     | 18650 charging shield                 |
-| Speaker amp | PAM8403 module                        |
-| Speaker     | 0.5W small speaker                    |
-| Antenna     | 2.4GHz WiFi directional panel antenna |
+| Part        | Search                                                                 |
+|-------------|------------------------------------------------------------------------|
+| ESP32       | ESP32-WROOM-32U development board with connection for external antenna |
+| LCD         | LCD1602 16x2 PCF8574                                                   |
+| Battery     | 18650 charging shield                                                  |
+| Speaker amp | PAM8403 module                                                         |
+| Speaker     | 0.5W small speaker                                                     |
+| Antenna     | 2.4GHz WiFi directional panel antenna                                  |
 
 ## 3D printed parts
 
