@@ -17,9 +17,12 @@ Adjust the speaker volume with the small pot.
 
 The range appears to be a couple of hundred feet if there is line of sight to the beacon.
 
-Finding my cat, Bela, who is sleeping outside with a BLE tag on his collar:
+Finding my cat, Bela, who is sleeping outside with a BLE tag on his collar:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/n8z9IQo4tqQ?si=6Y5C0U5oPMUEisf6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p float="left">
+<a href="https://youtu.be/n8z9IQo4tqQ">
+<img src="assets/youtube-ble-locator.png" height=300 alt="Locator 3" />
+</a>
 
 ## Building
 
