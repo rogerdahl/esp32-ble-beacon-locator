@@ -60,6 +60,11 @@ Search terms for parts:
 | Speaker     | 0.5W small speaker                                                     |
 | Antenna     | 2.4GHz WiFi directional panel antenna                                  |
 
+### Troubleshooting
+
+- If there's a build error, try `idf.py reconfigure`.
+
+
 ## 3D printed parts
 
 `./print/handle.FCStd`
@@ -78,3 +83,4 @@ Search terms for parts:
 - [esp32](https://www.espressif.com/en/products/socs/esp32)
 - [esp-idf](https://github.com/espressif/esp-idf)
 - [esp-idf-lib](https://github.com/UncleRus/esp-idf-lib) (for driving the LCD)
+
